@@ -7,7 +7,7 @@ Here, you can find our weekly presentations, associated supplemental material, a
 <center>
 
 | Topic        | Date           | Presenter  |
-| ------------- |:-------------:| -----:|
+| :-------------: |:-------------:| :-----:|
 | Recursion & Tail End Optimization      | 08/30/2017 | Ashish Uppala |
 | Big O Notation      | 09/06/2017      |   Ashish Uppala |
 |         |    **Data Structures** |	
