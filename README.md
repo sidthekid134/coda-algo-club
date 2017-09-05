@@ -4,6 +4,8 @@ This github repo is intended for members of the CODA Algorithms to share informa
 
 Here, you can find our weekly presentations, associated supplemental material, and anything else we shared with each other.
 
+<center>
+
 | Topic        | Date           | Presenter  |
 | ------------- |:-------------:| -----:|
 | Recursion & Tail End Optimization      | 08/30/2017 | Ashish Uppala |
@@ -16,3 +18,16 @@ Here, you can find our weekly presentations, associated supplemental material, a
 |         |    **Algorithms** | 
 | Traveling Salesman Problem | 10/11/2017      |  TBD   |
 | Shortest Path First | 10/18/2017      |  TBD   |
+| TBD | 10/25/2017      |  TBD   |
+| TBD | 11/01/2017      |  TBD   |
+| TBD | 11/08/2017      |  TBD   |
+| TBD | 11/15/2017      |  TBD   |
+| TBD | 11/22/2017      |  TBD   |
+| TBD | 11/29/2017      |  TBD   |
+| TBD | 12/06/2017      |  TBD   |
+
+</center>
+
+**We'll tentatively agree to say 12/06 is our last day, but we can play it by ear.**
+
+**If you are interested in presenting for a certain topic that has already been added to the schedule, or want to suggest a topic to cover, please contact me directly!**
