@@ -16,8 +16,8 @@ Here, you can find our weekly presentations, associated supplemental material, a
 | Maps | 09/27/2017      |   TBD  |
 | Graphs and Trees | 10/04/2017      |  TBD   |
 |         |    **Algorithms** |
-| Traveling Salesman Problem | 10/11/2017      |  TBD   |
-| Shortest Path First | 10/18/2017      |  TBD   |
+| Traveling Salesman Problem | 10/11/2017      |  Siddhardha Moparthi   |
+| Shortest Path First | 10/18/2017      |  Cameron Stinson   |
 | TBD | 10/25/2017      |  TBD   |
 | TBD | 11/01/2017      |  TBD   |
 | TBD | 11/08/2017      |  TBD   |
