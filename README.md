@@ -12,9 +12,9 @@ Here, you can find our weekly presentations, associated supplemental material, a
 | Big O Notation      | 09/06/2017      |   Ashish Uppala |
 |         |    **Data Structures** |
 | Linked Lists | 09/13/2017      |  Nika Pogrebna   |
-| Stacks and Queues | 09/20/2017      |   TBD  |
-| Maps | 09/27/2017      |   TBD  |
-| Graphs and Trees | 10/04/2017      |  TBD   |
+| Stacks and Queues | 09/20/2017      |   Ashish Uppala  |
+| Graphs | 09/27/2017      |   Ashish Uppala  |
+| Trees | 10/04/2017      |  Ashish Uppala   |
 |         |    **Algorithms** |
 | Traveling Salesman Problem | 10/11/2017      |  Siddhardha Moparthi   |
 | Shortest Path First | 10/18/2017      |  Cameron Stinson   |
