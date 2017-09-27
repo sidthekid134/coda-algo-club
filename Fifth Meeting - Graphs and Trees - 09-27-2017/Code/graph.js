@@ -71,7 +71,8 @@ class Graph {
     }
   }
 
-  traverseBFS(vertex, fn) {
+  traverseBFS(vertex) {
+
     if(!~this.vertices.indexOf(vertex)) {
       return console.log('Vertex not found');
     }
@@ -81,8 +82,11 @@ class Graph {
     visited[vertex] = true;
 
     while(queue.length) {
+      console.log('----');
+      console.log(queue);
       vertex = queue.shift();
-      fn(vertex);
+      console.log(vertex);
+      // console.log(this.edges[vertex]);
       for(let i = 0; i < this.edges[vertex].length; i++) {
         if(!visited[this.edges[vertex][i]]) {
           visited[this.edges[vertex][i]] = true;
@@ -90,6 +94,7 @@ class Graph {
         }
       }
     }
+
   }
 
   pathFromTo(vertexSource, vertexDestination) {
