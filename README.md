@@ -28,6 +28,6 @@ Here, you can find our weekly presentations, associated supplemental material, a
 
 </center>
 
-**We'll tentatively agree to say 12/06 is our last day, but we can play it by ear.**
+**We'll tentatively agree to say 12/06 is our last day, but we can play it by ear!**
 
 **If you are interested in presenting for a certain topic that has already been added to the schedule, or want to suggest a topic to cover, please contact me directly!**
